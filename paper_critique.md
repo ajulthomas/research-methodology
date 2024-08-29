@@ -58,3 +58,7 @@ I used keywords such as 'augmented reality', 'virtual reality', 'wellbeing' and 
 The title of the paper[1] is appropriate, concise and is directly related to the topics discussed in the paper. It accurately indicates the focus population of this study, which is older adults.
 
 The abstract of the paper[1] provides a comprehensive overview of the research problem, objectives, methods, key findings, and conclusions drawn, in an appropriate manner. However, it could be slightly more specific about the methods employed in the study.
+
+**Research Problem**
+
+The research focuses on understanding the potential of using augmented reality and virtual reality technologies in improving the physical, psychological and social wellbeing of older adults. It identifies the challenges and barriers in the adoption of these technologies. The study highlights the research gap in this area of the augmented reality and virtual reality research. It also develops an evaluation framework to assess how these technologies impact the wellbeing of older adults.
