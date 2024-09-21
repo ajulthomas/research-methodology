@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1 - Paper Critique"
+title: "Assignment 1: Review and Critique of Research Paper & Methodology"
 author: Ajul Thomas
 date: August 30, 2024
 output:
@@ -91,7 +91,7 @@ A larger and more diverse sample consisting of novice technicians along with lon
 
 **Research Contributions**
 
-The research[1] contributes to both theory and practice into the field of industrial training. It provides empirical evidence that shows the effectiveness of augmented reality systems in complex and highly demanding industrial maintanence and assembly (IMA) training tasks. It demonstrates the potential advantages of Augmented reality training platforms over traditional methods, particularly in reducing unsolved errors. This adds more data supporting previous research+-[2] findings that, AR technology can improve the cognitive element of training.
+The research[1] contributes to both theory and practice into the field of industrial training. It provides empirical evidence that shows the effectiveness of augmented reality systems in complex and highly demanding industrial maintanence and assembly (IMA) training tasks. It demonstrates the potential advantages of Augmented reality training platforms over traditional methods, particularly in reducing unsolved errors. This adds more data supporting previous research[1] findings that, AR technology can improve the cognitive element of training.
 
 Furthermore, the study highlights the needs for more research with respect to virtual reality assisted trainings tasks, as it didnot show any significant improvements over traditional training methods in this research. This promotes more researchers to explore the potential of virtual reality technologies.
 
@@ -101,12 +101,22 @@ The research has a well-structured experimental design, which adds to the validi
 
 The research is repeatable as the authors have provided clear and unambigous description of the experimental procedures and training tasks involved. On the other hand, hardware and software improvements in the field of augmented reality and virtual reality could affect the repeatability of the experiment.
 
-The research article was published in the Interactive Learning Environments journal, which is a reputable academic journal with a focus on technology-enhanced learning environments. As per the data from scopus[3], 494 documents have cited this peer-reviewed article.
+The research article was published in the Interactive Learning Environments journal, which is a reputable academic journal with a focus on technology-enhanced learning environments. As per the data from journal article webpage[1], this peer-reviewed article has 378 cross reference citations.
 
 **Ethical Issues**
 
 The paper doesnot explicitly mention a detailed framework for adressing ethical issues. It could be assumed that the researchers have most likely obtained informed consent and voluntary participation, as the experiment was carried out in an industry setting with experineced professionals. This also reduces the risk of any significant physical or psychological risks as the participants are familiar with the nature of the tasks.
 
-However, the research paper[1] should have explicitly mentioned the ethical approval obtained from a relevant body. It should have detailed the informed consent process, where the participants are explained about the research objectives, nature of their involvement and their right to withdraw at any time, without repercussions.
+However, the research paper[1] should have explicitly mentioned the ethical approval obtained from a relevant body. It should have detailed the informed consent process, where the participants are explained about the research objectives, nature of their involvement and their right to withdraw at any time, without repercussions[2].
 
 **Deficiencies**
+
+The researchers[1] itself have mentioned some of the limitations of the present study, such as choice of expert technicians, novelty of the augmented reality and virtual reality platforms, lack of complexity and short duration of the chosen task and the significant differences between the augmented reality and virtual reality platforms used. The choice of expert participantss caused ceiling effect in some modes of the experiment and most of the participants were male, which limits generalisation of the findings to the broader industry. The potential benefits of the platforms couldn't be explored further due to the simplicity and short duration of the electronic actuator assembly task.
+
+Inorder to address these gaps or deficiencies in this research[1], future research initiatives should include a larger and more diverse sample of participants. Furthermore, authors[1] have suggested inclusion of participants who are familiar with augmented reality and virtual reality platforms and use of lengthier and complex tasks, which requires high level problem solving and strategic planning. A more comprehensive understanding can be derived from future research endeavors by incoporating these improvements.
+
+References
+
+[1] N. Gavish et al., “Evaluating virtual reality and augmented reality training for industrial maintenance and assembly tasks,” Interactive Learning Environments, vol. 23, no. 6, pp. 778–798,
+Jul.2013, doi: https://doi.org/10.1080/10494820.2013.815221.
+[2] ChatGPT, information from request 'ethical concerns or process to be followed for a research article', 11:30am, Aug, 30, 2024.
