@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - Augmented Reality and Artificial Intelligence in industry: Trends, tools, and future challenges
+AU  - Devagiri, Jeevan S.
+AU  - Paheding, Sidike
+AU  - Niyaz, Quamar
+AU  - Yang, Xiaoli
+AU  - Smith, Samantha
+JO  - Expert Systems with Applications
+VL  - 207
+SP  - 118002
+PY  - 2022
+DA  - 2022/11/30/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2022.118002
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417422012246
+KW  - Augmented Reality
+KW  - Artificial Intelligence
+KW  - Machine learning
+KW  - Industrial applications
+KW  - Deep learning
+AB  - Augmented Reality (AR) is an augmented depiction of reality formed by overlaying digital information on an image of objects being seen through a device. Artificial Intelligence (AI) techniques have experienced unprecedented growth and are being applied in various industries. The combination of AR and AI is the next prominent direction in upcoming years with many industries and academia recognizing the importance of their adoption. With the advancements in the silicone industry that push the boundaries of Moore’s law, processors will be less expensive, more efficient, and power-optimized in the forthcoming years. This is a tremendous support and necessity for an AR boom, and with the help of AI, there is an excellent potential for smart industries to increase the production speed and workforce training along with improved manufacturing, error handling, assembly, and packaging. In this work, we provide a systematic review of recent advances, tools, techniques, and platforms of AI-empowered AR along with the challenges of using AI in AR applications. This paper will serve as a guideline for future research in the domain of AI-assisted AR in industrial applications.
+ER  - 
