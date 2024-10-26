@@ -1,0 +1,15 @@
+## Abstract
+
+The rapid change in industrial processes demands innovative training solutions that enhance productivity, accuracy, and employee skill. This study investigates the effectiveness of integration of conversational artificial intelligence within an augmented reality (AR) platform for industrial maintenance and assembly training. The participants will be divided into three groups using randomized controlled trial (RCT). Emphirical evaluation of the impact of AR+AI platform on task accuracy, learning retention and performance in complex maintanence and assembly tasks alongside subjective assessment of the usability and acceptance will be carried out in the research. This research aims to fill gaps in AR training technology by providing both objective and subjective evidence on its benefits and challenges. The findings will contribute to developing more engaging, effective, and accessible training platforms for industries, including manufacturing and maintenance, setting a foundation for further adoption of AR and AI technologies in industrial training environments.
+
+1. Introduction
+   In the rapidly evolving landscape of smart industries, technological advancements have led to more complex machinery and dynamic production processes, requiring frequent upskilling and training for employees. Traditional training methods are often insufficient to meet these demands, necessitating the development of interactive, engaging learning platforms that effectively support employees in acquiring the skills needed for these dynamic industrial environments.
+
+1.1 Augmented Reality in Industrial Training
+Augmented Reality (AR) has shown promising results in industrial training settings by improving task performance and retention rates. Studies demonstrate that AR can enhance training effectiveness, particularly in manual assembly tasks where AR-based training provides real-time visual cues and instructions, significantly aiding knowledge retention and accuracy in assembly tasks​(Assemble it like this! …)​(daling-schlittmeier-202…).
+
+1.2 Voice Assistants in Industrial Training
+Integrating voice assistants (VAs) in industrial training can improve task engagement and user interaction. VAs provide hands-free guidance, enabling workers to focus on task performance without interrupting workflows. Research shows that voice assistants improve efficiency by facilitating real-time assistance and immediate access to procedural information, ultimately aiding users in completing complex industrial tasks with higher accuracy and reduced time​(Utilizing_Voice_Assista…).
+
+1.3 Use of Conversational AI
+Conversational AI enhances user engagement by enabling natural, interactive communication on training platforms. Studies indicate that incorporating conversational AI leads to increased user participation and improved learning outcomes, as AI chatbots can simulate dynamic conversations and respond intuitively to user queries, creating a more immersive and supportive learning environment​(implementation-of-an-ai…).
